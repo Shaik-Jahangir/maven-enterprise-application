@@ -19,9 +19,9 @@
     <dependencies>
         <dependency>
             <groupId>com.mt</groupId>
-            <artifactId>MavenEnterpriseApp-ear</artifactId>
+            <artifactId>MavenEnterpriseApp-war</artifactId>
             <version>1.0</version>
-            <type>ear</type>
+            <type>war</type>
         </dependency>
     </dependencies>
   <properties>
